@@ -1,0 +1,13 @@
+.footer {
+    margin: auto;
+    width: 317px;
+    height: 64px;
+    background: #161619;
+    border-radius: 0px 0px 10px 10px;
+   
+  }
+  .icons{
+      margin:25px;
+      padding:0;
+      
+  }
