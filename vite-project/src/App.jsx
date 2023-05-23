@@ -1,6 +1,4 @@
 import BusinessCard from "./page/BusinessCard"
-
-
 function App() {
   return (
     <>
