@@ -2,4 +2,4 @@
 
 A simple react business card.
 
-#Link: digital-businesscard-edi.netlify.app
+click here to view: digital-businesscard-edi.netlify.app
